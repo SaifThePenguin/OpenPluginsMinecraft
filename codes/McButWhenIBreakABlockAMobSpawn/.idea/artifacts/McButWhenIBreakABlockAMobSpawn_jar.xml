@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="McButWhenIBreakABlockAMobSpawn:jar">
+    <output-path>$PROJECT_DIR$/../../plugins</output-path>
+    <root id="archive" name="McButWhenIBreakABlockAMobSpawn.jar">
+      <element id="module-output" name="McButWhenIBreakABlockAMobSpawn" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../utilities/spigot-1.17.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
